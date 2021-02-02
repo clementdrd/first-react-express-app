@@ -1,0 +1,12 @@
+Step one:
+
+Download Mongo DB + create db dreamquark
+Download ReactJs + Nodejs + ExpressJS
+
+Step two:
+
+Launch Mongo Db and use dreamquark
+Launch in server directory node index.js
+Launch in client directory npm start
+
+it will automaticaly redirect to HomePage

@@ -1,0 +1,7 @@
+╰─$ service mongod start
+
+    or try:
+
+╰─$ sudo service mongod start
+
+then type = "mongo"

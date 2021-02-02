@@ -1,0 +1,5 @@
+nodemon index.js refresh automaticly
+      or
+node index.js
+
+use mongo and "use dreamquark"
